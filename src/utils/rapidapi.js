@@ -5,7 +5,7 @@ const BASE_URL="https://youtube138.p.rapidapi.com"
 
 const options = {
 	headers: {
-		'x-rapidapi-key': API_KEY,
+		'x-rapidapi-key': 'c46f03903emshea189ca5c4cd690p168c19jsn89e14636eff6',
 		'x-rapidapi-host': 'youtube138.p.rapidapi.com'
 	}
 };
